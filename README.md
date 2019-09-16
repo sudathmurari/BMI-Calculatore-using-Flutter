@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/sudathmurari/BMI-Calculatore-using-Flutter/blob/master/BMI%20Calculator.gif){:height="700px" width="400px"}
+![alt text](https://github.com/sudathmurari/BMI-Calculatore-using-Flutter/blob/master/BMI%20Calculator.gif?s=200)
