@@ -16,3 +16,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![](https://github.com/sudathmurari/BMI-Calculatore-using-Flutter/blob/master/BMI%20Calculator.gif?thumbnail)
+
+
+This worked in README
+Image hosted on GitHub placed in 
+<img src="https://github.com/sudathmurari/BMI-Calculatore-using-Flutter/blob/master/BMI%20Calculator.gif" width="400" height="790">
